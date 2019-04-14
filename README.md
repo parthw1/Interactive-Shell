@@ -1,3 +1,4 @@
 # Interactive Shell
 
-* To run type `gcc shell.c` on terminal.
+* To compile do `gcc shell.c -o shell` on terminal.
+* To rull do `./shell`.
